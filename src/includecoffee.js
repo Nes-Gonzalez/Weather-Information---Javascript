@@ -1,0 +1,1 @@
+exports.include = require('../src/weatherReportCoffee.js');
